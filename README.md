@@ -1,2 +1,2 @@
-# homebrew-toolchains
-Homebrew formulae for cross compiler toolchains
+# 🍺 homebrew-toolchains 
+Homebrew formulae to install toolchains for cross-compiling targets.
